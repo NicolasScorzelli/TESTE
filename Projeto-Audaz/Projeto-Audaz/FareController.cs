@@ -27,6 +27,8 @@ namespace TestePleno.Controllers
             fare.OperatorId = _operator.Id;
 
             FareService.Create(fare);
+
+            //arroz
         }
     }
 }
