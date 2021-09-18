@@ -28,7 +28,7 @@ namespace TestePleno.Controllers
 
             FareService.Create(fare);
 
-            //arroz
+            //arroz com feijão
         }
     }
 }
